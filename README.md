@@ -1,2 +1,0 @@
-# blakedavies-assets
-blakedavies-assets
