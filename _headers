@@ -1,3 +1,7 @@
-/*
-  X-Frame-Options: allow-from https://blakedaviesnet-v3.netlify.com/
-  X-XSS-Protection: 0;
+/fonts/*.woff
+  Access-Control-Allow-Origin: *
+  Content-Type: application/font-woff
+
+/fonts/*.ttf
+  Access-Control-Allow-Origin: *
+  Content-Type: application/font-ttf
