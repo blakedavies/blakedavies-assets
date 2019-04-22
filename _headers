@@ -1,7 +1,11 @@
-/fonts/*.woff
+/fonts/Bebas/*.woff2
+  Access-Control-Allow-Origin: *
+  Content-Type: application/font-woff2
+
+ /fonts/Bebas/*.woff
   Access-Control-Allow-Origin: *
   Content-Type: application/font-woff
 
-/fonts/*.ttf
+/fonts/Bebas/*.ttf
   Access-Control-Allow-Origin: *
   Content-Type: application/font-ttf
